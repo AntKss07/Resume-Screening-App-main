@@ -1,1 +1,2 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+Resume-Screening-App-main/clf.pkl filter=lfs diff=lfs merge=lfs -text
