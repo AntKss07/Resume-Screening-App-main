@@ -51,7 +51,7 @@ The model is trained to recognize various job categories, including:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/AntKss07/Resume-Screening-App-main>
    cd Resume-Screening-App
    ```
 
